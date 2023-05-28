@@ -50,9 +50,10 @@ while True:
 
 
 # SERVER OUTPUT :
-![output](S.png)
+![out1](https://github.com/Guru-Guna/EX-2/assets/93427255/06e0e5aa-9487-4466-b29b-3a1f8cc00498)
+
 # CLIENT OUTPUT :
-![output](C.png)
+![out2](https://github.com/Guru-Guna/EX-2/assets/93427255/754c8442-ca3e-484c-9d05-f827676c4dbc)
 
 
 
